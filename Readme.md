@@ -9,7 +9,6 @@ forked from segmentio/go-prompt
 
 ## How to use:
 
-1.
 ```go
 package main
 
@@ -31,15 +30,15 @@ func main() {
 }
 ```
 
-## Current functions:
-String
-StringRequired
-StringDefault
-Stringln
-Integer
-IntegerRequired
-Confirm
-Choose
-ChooseInterface
-Password
-PasswordMasked
+## Functions:
+* String
+* StringRequired
+* StringDefault
+* Stringln
+* Integer
+* IntegerRequired
+* Confirm
+* Choose
+* ChooseInterface
+* Password
+* PasswordMasked
